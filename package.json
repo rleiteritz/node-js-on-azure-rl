@@ -3,6 +3,9 @@
     "description": "Simple Hello World Node.js sample for Azure App Service",
     "version": "0.0.1",
     "private": true,
+    "engines": {
+        "node": ">=16.0.0"
+    },
     "license": "MIT",
     "author": "Microsoft",
     "scripts": {
